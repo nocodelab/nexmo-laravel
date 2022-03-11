@@ -1,5 +1,5 @@
 {
-    "name": "nexmo/laravel",
+    "name": "nocodelab/nexmo-laravel",
     "description": "Laravel Package for Nexmo's PHP Client",
     "license": "MIT",
     "type": "library",
